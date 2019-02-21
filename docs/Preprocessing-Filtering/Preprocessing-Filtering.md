@@ -627,7 +627,7 @@ plt.show()
 
 #### The center of the power noise is not 60Hz but actually two peaks at 60.09 and 60.075
 
-Let's take a look at an 8th-order butterworth filter 40 rad/sec cutoff 
+Let's take a look at an 8th-order butterworth filter 30 rad/sec cutoff 
 
 
 ```python
