@@ -12,19 +12,10 @@ The steps are:
     1. Statistical inspection of the data
     1. Visual inspection of the data
     1. Annotating all bad data
-  1. Calculate and review the Event Related Potentials (ERP)
-    1. Remove bad data
-    1. Look for interesting ranges
 2. Combine the different trials into a single dataset
-1. Prepare the data for CSP
-  1. Filter the data
-  1. Set the interesting range
-1. Perform CSP and LDA
-  1. Get overall predictive metrics
-  1. Get Confusion Matrices
+1. Extract the epocs
   
-  
-
+ 
 
 ```python
 #imports
