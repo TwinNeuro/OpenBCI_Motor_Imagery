@@ -7,13 +7,13 @@ This notebook runs the standard preprocessing.  It uses the `raw.fif` file creat
 
 The steps are:
 1. For each individual trial:
-  1. Load the file into `raw` structure
-  1. Checking and cleaning
-    1. Statistical inspection of the data
-    1. Visual inspection of the data
-    1. Annotating all bad data
-2. Combine the different trials into a single dataset
-1. Extract the epocs
+   1. Load the file into `raw` structure
+   1. Checking and cleaning
+      1. Statistical inspection of the data
+      1. Visual inspection of the data
+      1. Annotating all bad data
+   2. Combine the different trials into a single dataset
+   1. Extract the epocs
   
  
 
